@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shravya N Bhat</h1>
 <h3 align="center">Information Science student | Web Developer | Building through real-world projects</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shravya2820&label=Profile%20views&color=0e75b6&style=flat" alt="Shravya2820" />
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -54,8 +49,9 @@
 
 - 🎓 **[NMAMIT Study Guide](https://github.com/Shravya2820/First-year-guide)** — An academic resource hub for first-year students with notes, question papers, and materials.
 - 🤝 **[BuzzerX](https://github.com/prakashwaddar628/buzzerx-skills-to-jobs)** — Azure AI-powered platform for resume parsing, skill verification, and intelligent job matching.
-- 🔄 **Skill Swap Platform** — A MySQL-based skill exchange platform built around database design, normalization, and CRUD operations.
-- 📅 **College Event Registration Portal** — Full-stack event management system with authentication, event registration, and an admin dashboard.
+- 🔄 **[Skill Swap Platform](https://github.com/Shravya2820/skill-swap-dbms)** — A MySQL-based skill exchange platform built around database design, normalization, and CRUD operations.
+- 🩻 **[Scout-less CT Scan Planning](https://github.com/Shravya2820/Scout-less-CT-Planning)** — AI-driven CT planning that replaces radiation-heavy scout scans with multi-modal sensor tracking and 3D landmark prediction.
+- 📅 **[College Event Registration Portal](https://github.com/Shravya2820/inspirante-Shravya)** — Full-stack event management system with authentication, event registration, and an admin dashboard.
 - 🚔 **[Crime Rate Prediction](https://github.com/Shravya2820/Scout-less-CT-Planning)** — A model built on open city data to analyze and visualize crime trends.
 
 ---
@@ -64,9 +60,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shravya2820&show_icons=true&theme=radical&count_private=true" alt="Shravya's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravya2820&theme=radical" alt="Shravya's Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Shravya2820&theme=radical" alt="Shravya's Streak" height="165"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravya2820&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
