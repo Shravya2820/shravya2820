@@ -61,10 +61,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shravya2820&show_icons=true&theme=radical&count_private=true" alt="Shravya's GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Shravya2820&theme=radical" alt="Shravya's Streak" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravya2820&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
