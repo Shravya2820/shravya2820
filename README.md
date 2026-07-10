@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shravya N Bhat</h1>
 <h3 align="center">Information Science student | Web Developer | Building through real-world projects</h3>
+
 ---
 
 ### 🚀 About Me
