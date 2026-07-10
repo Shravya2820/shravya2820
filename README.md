@@ -10,22 +10,12 @@
 ### 🚀 About Me
 
 - 🎓 Bachelor of Information Science & Technology, **N.M.A.M.I.T** (2024 – 2028)
-- 🔭 Interested in **web development** and building things through real-world projects
+- 🔭 Interested in **Web Development** and building things through real-world projects
 - 🌱 Currently sharpening my full-stack skills — HTML5, CSS3, JavaScript, React.js, Node.js, Express.js
 - 🤝 Love collaborating with like-minded peers and taking part in hackathons
 - 🗣️ Strong communicator with experience in teamwork and event coordination
 - 💃 When I'm not coding: Bharatanatyam Senior Grade artist, Carnatic vocalist, and author of 5 eBooks on Amazon
 - 📫 Reach me at **shravyanbhat.01@gmail.com**
-
----
-
-### 🎓 Education
-
-| Year | Institution | Details |
-|------|-------------|---------|
-| 2024 – 2028 | N.M.A.M.I.T | B.Tech, Information Science & Technology |
-| 2022 – 2024 | CFAL | PCMB — 90% |
-| 2022 | Vishwamangala High School | SSLC — 98.88% |
 
 ---
 
@@ -70,17 +60,6 @@
 
 ---
 
-### 🏆 Achievements & Leadership
-
-- 🥇 **Hackathons:** 4th place at Hack for Future (Belagavi), 7th place at ISTE State-Level Hackathon (Mangalore); shortlisted for National-Level Code for Innovex; participated in HackNocturne 3.0 (Bengaluru) and Smart India Hackathon
-- 🧑‍💼 **Leadership:** Joint Secretary (CSI) · SACA ERP Team · E-Cell Startup Monitoring Team · NSS IT Wing · Incidrea 2026 Cultural Committee
-- 🌍 **Outreach:** Volunteer, VISTA IoT programs for government school students
-- 🎖️ **Reliance Foundation Scholar** — awarded for academic excellence
-- 📜 **Certifications:** Full-Stack Web Development Bootcamp (Udemy) · Programming for Everybody — Python (University of Michigan, Coursera)
-- 🔬 **Student Intern, Atal Incubation Centre** (Jan–Apr 2025) — 80-hour internship in AI, electronics, Arduino & design thinking; built a Reaction Time Game using Arduino
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -107,5 +86,3 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
-<p align="center"><i>📞 +91 8951236021</i></p>
