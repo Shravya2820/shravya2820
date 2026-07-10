@@ -48,12 +48,12 @@
 
 ### 💼 Featured Projects
 
-🎓 **[NMAMIT Study Guide](https://github.com/Shravya2820/First-year-guide)** — An academic resource hub for first-year students with notes, question papers, and materials.
-🤝 **[BuzzerX](https://github.com/prakashwaddar628/buzzerx-skills-to-jobs)** — Azure AI-powered platform for resume parsing, skill verification, and intelligent job matching.
-🔄 **[Skill Swap Platform](https://github.com/Shravya2820/skill-swap-dbms)** — A MySQL-based skill exchange platform built around database design, normalization, and CRUD operations.
-🩻 **[Scout-less CT Scan Planning](https://github.com/Shravya2820/Scout-less-CT-Planning)** — AI-driven CT planning that replaces radiation-heavy scout scans with multi-modal sensor tracking and 3D landmark prediction.
-📅 **[College Event Registration Portal](https://github.com/Shravya2820/inspirante-Shravya)** — Full-stack event management system with authentication, event registration, and an admin dashboard.
-🚔 **[Crime Rate Prediction](https://github.com/Shravya2820/Scout-less-CT-Planning)** — A model built on open city data to analyze and visualize crime trends.
+- 🎓 **[NMAMIT Study Guide](https://github.com/Shravya2820/First-year-guide)** — An academic resource hub for first-year students with notes, question papers, and materials.
+- 🤝 **[BuzzerX](https://github.com/prakashwaddar628/buzzerx-skills-to-jobs)** — Azure AI-powered platform for resume parsing, skill verification, and intelligent job matching.
+- 🔄 **[Skill Swap Platform](https://github.com/Shravya2820/skill-swap-dbms)** — A MySQL-based skill exchange platform built around database design, normalization, and CRUD operations.
+- 🩻 **[Scout-less CT Scan Planning](https://github.com/Shravya2820/Scout-less-CT-Planning)** — AI-driven CT planning that replaces radiation-heavy scout scans with multi-modal sensor tracking and 3D landmark prediction.
+- 📅 **[College Event Registration Portal](https://github.com/Shravya2820/inspirante-Shravya)** — Full-stack event management system with authentication, event registration, and an admin dashboard.
+- 🚔 **[Crime Rate Prediction](https://github.com/Shravya2820/Scout-less-CT-Planning)** — A model built on open city data to analyze and visualize crime trends.
 
 ---
 
